@@ -8,7 +8,7 @@
   <a href="https://github.com/GioSupremeX">
     <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F0FF&icon_color=00F0FF" height="195" alt="GitHub Stats" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/GioSupremeX">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&stroke=0000&title_color=00F0FF" height="195" alt="GitHub Streak" />
   </a>
 </div>
