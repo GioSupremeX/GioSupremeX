@@ -33,7 +33,7 @@
 
 <br>
 
-<!-- 3D Contribution Metropolis (Requires GitHub Action in Step 3) -->
+<!-- 3D Contribution Metropolis (Requires GitHub Action in Step 3) --
 <h2 align="center">🏙️ Contribution Metropolis</h2>
 <div align="center">
   <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
