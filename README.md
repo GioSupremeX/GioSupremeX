@@ -28,7 +28,7 @@
 <!-- Animated Tech Arsenal -->
 <h2 align="center">⚡ Supreme Tech Arsenal</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,react,nextjs,nodejs,express,docker,kubernetes,aws,linux,git,vim,neovim&perline=8" alt="GioSupremeX Skills" />
+  <img src="https://skillicons.dev/icons?i=js,python,nodejs,docker,linux,git&perline=8" alt="GioSupremeX Skills" />
 </div>
 
 <br>
