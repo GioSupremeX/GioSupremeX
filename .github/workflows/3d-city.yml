@@ -1,4 +1,4 @@
-name: Generate 3D GitHub City
+name: Generate 3D Contribution Metropolis
 
 on:
   schedule:
