@@ -1,32 +1,36 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Hello+World,+I'm+YOUR_USERNAME!;Welcome+to+my+GitHub+Profile;Building+cool+things+with+code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00FF7F&center=true&vCenter=true&width=800&lines=System+Initialized...;Welcome+to+my+Command+Center;Executing+Brilliance.exe..." alt="Typing SVG" />
 </div>
 
-<br/>
+<br>
 
+<!-- Floating Trophies -->
 <div align="center">
-  <a href="https://github.com/GioSupremeX">
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F0FF&icon_color=00F0FF" height="195" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/GioSupremeX">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&stroke=0000&title_color=00F0FF" height="195" alt="GitHub Streak" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=GioSupremeX&theme=radical&column=7&margin-w=15&margin-h=15&no-frame=true" alt="Trophies" />
   </a>
 </div>
 
----
+<br>
 
-### 🚀 About Me
-* 💻 I’m currently learning everything I can about programming.
-* 🤝 I’m looking to collaborate on fun open-source projects.
-* 📫 How to reach me: [Add your email or social link here]
-
-<br/>
-
+<!-- Dynamic Stat Cards -->
 <div align="center">
-  <h3>🐍 My Code Contributions</h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/dist/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/dist/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/dist/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=GioSupremeX&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GioSupremeX&theme=radical&hide_border=true&background=0D1117" alt="Streak" />
+</div>
+
+<br>
+
+<!-- Tech Arsenal (These are animated SVG icons) -->
+<h3 align="center">⚡ Tech Arsenal</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,python,react,nodejs,docker,linux,git,bash,vscode&perline=9" />
+</div>
+
+<br>
+
+<!-- The 3D Contribution City -->
+<h3 align="center">🌆 3D Contribution City</h3>
+<div align="center">
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
 </div>
